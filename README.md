@@ -29,7 +29,7 @@
 - "server listening on port: 3700" and "Connected to MongoDB Atlas".
   -In the folders you have some one file named: request.http this file it's for: test the endpoints
   Note: (using REST client extension to test ur endpoints if they actualy work or not you can use postman to test).
-
+  Note: to watch and see the documantation with static doc in the web go to this url: http://localhost:3700/api-doc/
 ## Version
 
 0.0.1
